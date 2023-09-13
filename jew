@@ -33,7 +33,7 @@ function Library:Create(table)
     title.Font = Enum.Font.Gotham
     title.Text = windowName
     title.TextColor3 = Color3.fromRGB(255, 255, 255)
-    title.TextSize = 20
+    title.TextSize = 12
     title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     title.BackgroundTransparency = 1
     title.Position = UDim2.fromScale(0.41, 0.0543)
